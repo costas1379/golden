@@ -1,0 +1,58 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+<title>Customer Care</title>
+</head>
+<body>
+	<h1>Customer Care</h2>
+		<p></p>
+
+		<div id="question">
+			<p>Have any questions or concerns? We’re always ready to help!</p>
+			<h1>Call Us At</h1>
+			<p>99674645 or send us an email to:marsel95@hotmail.com</p>
+		</div>
+		
+		<div class="entryForm">
+			<ul>
+				<li>Name</li>
+				<li>Email</li>
+				<li>Subject</li>
+				<li>Message</li>
+				<li>Send</li>
+			</ul>
+		</div>
+		
+		<div class="Returns">
+			<p>For products purchased directly from our page,facebook page or over the phone, simply return your UNUSED product to our distribution center within 14 days of the date of purchase in its original, unopened condition and packaging, along with the original purchase receipt. We will issue a full refund for the purchase price of the product. You are responsible for the costs of the return of your unused product to us. We will be happy to exchange any product in its original, unopened condition and packaging for another product, and we will deliver it at no cost to you.</p>
+
+			<p>Given the cosmetic nature of our products, we do not provide refunds or returns for opened or used products. As our business is based on honesty and integrity, we appreciate and expect the same from our customers.</p>
+		</div>
+		
+		<div id="faq">
+			<ul class="faq">
+				<li>Do you provide International delivery?</li>
+				<p>#</p>
+			</ul>
+			
+			<ul class="faq">
+				<li>How do I track my order?</li>
+				<p>#</p>
+			</ul>
+
+			<ul class="faq">
+				<li>How do I return an item?</li>
+				<p>#</p>
+			</ul>
+
+			<ul class="faq">
+				<li>What is your returns policy?</li>
+				<p>#</p>
+			</ul>
+
+			<ul class="faq">
+				<li>What are your delivery options?</li>
+				<p>#</p>
+			</ul>
+		</div>
