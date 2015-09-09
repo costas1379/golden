@@ -1,0 +1,21 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+<title>Awards</title>
+</head>
+<body>
+	<h1>Awards</h1>
+		<p>Glory Dead Sea Quality Products have received many prestigious international awards for Quality and Excellence worldwide.</p>
+
+	<div class="listAwards">
+		<ul>
+			<li>International Award for Quality-2003/Paris-France</li>
+			<li>International Award for Best Image-2003/Paris-France</li>
+			<li>International Award for Best Trade Name-2003</li>
+			<li>Gold Star for Quality & Excellence-2002/ Geneva-Switzerland</li>
+			<li>International Award Gold Category for Excellence-2002/Rome-Italy</li>
+			<li>International Award Gold Category for Quality-2002/Madrid-Spain</li>
+			<li>International Award Gold Category for Quality-2002/Berlin-Germany</li>
+		</ul>
+	</div>			

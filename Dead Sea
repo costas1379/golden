@@ -1,0 +1,109 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+<title>Dead Sea</title>
+</head>
+<body>
+	<h1>The Dead Sea</h1>
+		<div id="intro">
+			<p>In recent years there is much interest in Dead Sea therapy of variety of dermatological and systemic diseases and has been used in Jordan.</p>
+
+			<p>Health resort area, providing Dead Sea therapy, is located a long the easternshore of the Dead Sea at the southern end of the Jordan river.</p>
+		</div>
+		
+		<div id="location">
+			<h1>Location</h1>
+				<ul>
+					<li>Fed by the Jordan River</li>
+					<li>Lowest point on earth</li>
+					<li>423 meters (1388 ft) below sea level</li>
+				</ul>
+		</div>
+		
+		<div id="history">
+			<h1>History</h1>
+				<p>Historical figures such as King Herod and Queen Cleopatra utilized the Dead Sea for medicinal and cosmetic purposes.</p>
+
+				<p>The modern era for treating skin diseases at the Dead Sea began in 1959 with psorias is being the principal dermatological disease treated.</p>
+		</div>
+		
+		<div id="physicalProperties">
+			<h1>Physical Properties</h1>
+				<ul>
+					<li>Temperature 27C-39C.</li>
+					<li>Humidity 34%.</li>
+					<li>Rainfall 50mm per year.</li>
+					<li>Very high barometeric pressure-10% richer in Oxygen</li>
+					<li>Atomosphere pollen free and contains a high concentration of Bromide.</li>
+					<li>UV light  UVA > UVB</li>
+					<li>Aerosol haze</li>
+					<li>High degree of buoyancy</li>
+				</ul>
+		</div>
+		
+		<div id="why">
+			<h1>Why the Dead Sea</h1>
+				<p>The dreat healing powers have been attributed mainly to the high mineral content (32%) of the sea.</p>
+
+				<p>The mineral rich mud, which contains organic material is as well as a mixture of minerals and salts from the Dead Sea lake</p>
+		</div>
+		
+		<div id="salts">
+			<h1>Dead Sea Salts</h1>
+				<p>Differ from regular sea salt in 3 important ways:</p>
+					<ul>
+						<li>Contain 10 times more minerals than sea salt.</li>
+						<li>Absorb essential oils with ease, which enables them to be released into the bath water as they dissolve.</li>
+						<li>Concentration of divalent cations (Mg&Ca) is very high compared with monovalent cations (Na & K).</li>
+					</ul>
+					
+					<ul>
+						<li>
+							<h1>Sulfur</h1>
+								<p>Sulfur is necessary for synthesizing collagen. It is required for the adequate digestion and absorption of carbohydrates and a number of vitamins e.g. thiamin, biotin and pantothenic acid; it is also essential to enable cells to breathe.</p>
+						</li>
+
+						<li>
+							<h1>Calcium</h1>
+								<p>Necessary in strenghtening cell membranes and cleansing the pores.In addition it is vital for production and maintenance of healthy teeth and bones, together with regulating the heart muscles and nerves.</p>
+						</li>
+
+						<li>
+							<h1>Bromine</h1>
+								<p>Helps with the natural repair of the body together with cell metabolism and can be used as a natural antibiotic.</p>
+						</li>
+
+						<li>
+							<h1>Magnesium</h1>
+								<p>Necessary in assisting the body to utilize other essential nutrients and in cell metabolism.</p>
+						</li>
+					</ul>
+					
+		</div>
+		
+		<div id="mechanism">
+			<h1>Mechanism of action of minerals</h1>
+				<ul>
+					<li>Studies involving tissue culture of psoriatic skin cells and health rabbit skin</li>
+					<li>Mg cofactor for phosphate transfering enzymes C-AMP and C-GMP</li>
+					<li>K enhance CO2.</li>
+					<li>Ca regulates cell membrance permeability.</li>
+					<li>Zn a cofactor in enzymatic regulation of cell proliferation.</li>
+					<li>In vivo and in vitro-MgBr2, MgCl2 and KBr exhibited inhibition of skin proliferation after dermal application.</li>
+					<li>Minerals enhance moisture because of their hygroscopic characteristics.</li>
+				</ul>
+				
+			<h2>Chlorine</h2>
+				<p>Necessary to maintain the correct balance of alkaline and acid in the body, together with being vital for cell metabolism.</p>
+			<h2>Potassium</h2>
+				<p>Necessary to maintain the water balance in order for cell metabolism to take place, assisting the cells to absorb nourishment and expel waste products. An imbalance in potassium often leads to water retention.Also plays a vital role in regulating muscle contractions and the nervous system.</p>
+			<h2>Sodium</h2>
+				<p>Potassium plays a vital role in assisting the cells to absorb nourishment and expel waste.</p>
+		</div>
+		
+		<div id="cosmetics">
+			<h1>Consmetics</h1>
+				<p>Modern Dead Sea cosmetic preparations have been developed recently to care for different aspects of the biological activities of skin cells.
+				Still little is done to prove efficiency and added benefits and we feel that greater work & efforts have to be spent to understand effects and verify safety of these products.</p>
+		</div>																						
