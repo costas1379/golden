@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin:  0;
+	padding: 0;
+	color: #595CFF;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 1.4em; 
+	background-image: url(./Images/marble.jpg);
+	background-size: 100%;
+	background-color:#FFFFFF;
+	text-align: center;
+	displa:block;
+}
+
+#bracket1{
+	float:left;
+	height:100%;
+	width:auto;
+}
+
+#bracket2{
+	float:right;
+	height:100%;
+	width:auto;
+}
